@@ -44,3 +44,26 @@ a {
     margin: auto;
     width: 700px;
 }
+
+@media screen and (max-width: 768px) {
+    
+        .coming-soon-img {
+            width: 550px;
+        }
+    
+        .text {
+            width: 550px;
+        }
+    
+    }
+    
+@media screen and (max-width: 640px) {
+    
+    .coming-soon-img {
+        width: 400px;
+    }
+    
+     .text {
+        width: 400px;
+    }
+}
